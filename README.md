@@ -16,4 +16,5 @@ Este repositório contém uma implementação do projeto TabNews, com o objetivo
 
 1. **Fork este repositório**.
 2. **Clone o repositório forkado**:
-   ```sh git clone https://github.com/seu-usuario/clone-tabnews.git](https://github.com/mrxl33t/clone-tabnews.git
+   ```sh
+   git clone https://github.com/seu-usuario/clone-tabnews.git
