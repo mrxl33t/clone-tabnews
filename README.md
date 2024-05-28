@@ -2,7 +2,7 @@
 
 Uma implementação do projeto [TabNews](https://tabnews.com.br) para o curso [Curso.Dev](https://curso.dev).
 
-## Descrição
+## Descrição 
 
 Este repositório contém uma implementação do projeto TabNews, com o objetivo de melhorar as habilidades como programador, criando um sistema à prova de erros e escalável. O TabNews é uma plataforma de notícias e discussões para desenvolvedores, onde os usuários podem compartilhar e discutir conteúdos relacionados à programação e tecnologia.
 
