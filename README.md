@@ -1,6 +1,12 @@
-# Clone TabNews
+# DarkNews
 
-Uma implementação do projeto [TabNews](https://tabnews.com.br) para o curso [Curso.Dev](https://curso.dev).
+Aqui está uma descrição para o seu site "DarkNews", com base na descrição fornecida para o TabNews:
+
+O DarkNews é um site dedicado à comunidade hacker e de segurança cibernética, projetado para fomentar debates e a troca de conhecimentos através de publicações e comentários gerados pelos próprios usuários.
+
+Este repositório contém o código-fonte do site e da API do DarkNews.
+
+O DarkNews oferece APIs públicas que podem ser utilizadas para desenvolver outros projetos relacionados, desde que os Termos de Uso sejam respeitados.
 
 ## Descrição
 
