@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mrxl33t/darknews/assets/19867227/bb5eec20-d210-4a66-bd04-22cce9103cd4" width="300" height="200" />
+  <img src="https://github.com/mrxl33t/darknews/assets/19867227/bb5eec20-d210-4a66-bd04-22cce9103cd4" width="250" height="400" />
 </p>
 
 # DarkNews
