@@ -1,3 +1,6 @@
+![image](https://github.com/mrxl33t/darknews/assets/19867227/bb5eec20-d210-4a66-bd04-22cce9103cd4)
+
+
 # DarkNews
 
 O DarkNews é um site dedicado à comunidade hacker e de segurança cibernética, projetado para fomentar debates e a troca de conhecimentos através de publicações e comentários gerados pelos próprios usuários.
