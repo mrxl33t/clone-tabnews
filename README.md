@@ -8,13 +8,14 @@ O DarkNews oferece APIs públicas que podem ser utilizadas para desenvolver outr
 
 ## Descrição
 
-Este repositório contém uma implementação do projeto TabNews, com o objetivo de melhorar as habilidades como programador, criando um sistema à prova de erros e escalável. O TabNews é uma plataforma de notícias e discussões para desenvolvedores, onde os usuários podem compartilhar e discutir conteúdos relacionados à programação e tecnologia.
+Este repositório contém uma implementação do projeto DarkNews, com o objetivo de melhorar as habilidades como programador, criando um sistema à prova de erros e escalável. O DarkNews é uma plataforma de notícias e discussões para profissionais de segurança da informação, programadores, hacker e entusiastas de tecnologia, onde os usuários podem compartilhar e discutir conteúdos relacionados à programação e hacking.
 
 ## Objetivos do Projeto
 
 - **Aprendizado**: Desenvolver habilidades práticas em programação, seguindo as melhores práticas e padrões de desenvolvimento.
 - **Confiabilidade**: Criar um sistema robusto e à prova de erros, capaz de lidar com falhas e manter a estabilidade.
 - **Escalabilidade**: Construir uma aplicação escalável, que possa crescer e suportar um grande número de usuários e dados.
+- **Comunidade**: Fortalecer e promover a união entre pessoas da comunidade hacker DEIXANDO DE LADO tudo que está relacionado ao CORPORATIVISMO MODERNO!
 
 ## Como Contribuir
 
